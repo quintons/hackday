@@ -1,0 +1,25 @@
+{
+  "name": "hackday2",
+  "authors": [
+    "quintons <quintons@qsheppard.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
